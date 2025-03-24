@@ -1,4 +1,4 @@
-# 🚀 Merge Mentor
+# Merge Mentor
 
 **Merge Mentor** is a peer review learning platform where developers can practice reviewing real-world pull requests with known errors. Built using **Next.js**, **TypeScript**, and **Tailwind CSS**, this platform simulates the GitHub PR experience, allowing users to sharpen their code review skills.
 
